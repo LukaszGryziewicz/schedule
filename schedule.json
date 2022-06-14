@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Algorithmic tasks",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "tooltip": "Solving algorithmic problems on daily basis will hel you develop logical thinking and teach you how to find solutions to practical problems."
+  },
+  {
+    "id": 2,
+    "title": "Lesson",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "tooltip": "Review of new material with a coach in live mode"
+  },
+  {
+    "id": 3,
+    "title": "Lunch",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "tooltip": null
+  },
+  {
+    "id": 4,
+    "title": "Practice",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "tooltip": "Independent work with new material, mastering the theoretical part and performing practical tasks."
+  },
+  {
+    "id": 5,
+    "title": "Q&A",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "tooltip": "Video call with mentor, during which you will sort out common mistakes and get help in completing practical tasks."
+  },
+  {
+    "id": 6,
+    "title": "Practice",
+    "startTime": "14:30",
+    "endTime": "17:00",
+    "tooltip": "Independent work with new material, mastering the theoretical part and performing practical tasks."
+  },
+  {
+    "id": 7,
+    "title": "Mock interview",
+    "startTime": "14:30",
+    "endTime": "17:00",
+    "tooltip": "Test interview with a mentor and coach, which will prepare you for a real interview and show you what knowledge needs to be improved."
+  },
+  {
+    "id": 8,
+    "title": "Q&A",
+    "startTime": "17:30",
+    "endTime": "18:00",
+    "tooltip": "Video call with mentor, during which you will sort out common mistakes and get help in completing practical tasks."
+  }
+]
