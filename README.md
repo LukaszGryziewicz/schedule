@@ -1,1 +1,1 @@
-JSON representation of schedule items for mate interview
+💻 JSON representation of schedule items for Mate interview
